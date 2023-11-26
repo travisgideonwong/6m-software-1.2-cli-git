@@ -1,0 +1,51 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px; 
+    font-style: normal;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+
+img {
+    width: 200px;
+    margin: 30px;
+    opacity:70%;
+    border-radius: 10px;
+}
+
+#intro p {
+    font-size: 20px;
+    border: 1px grey solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#sports-teams {
+    background-color:grey;
+    padding:20px;
+    border-radius: 10px;
+    color: white;
+    font-weight:bold;
+}
+
+#social p {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#social p a {
+    color: white;
+}
+
+#social p a:hover {
+    text-decoration: none;
+    color:grey;
+}
